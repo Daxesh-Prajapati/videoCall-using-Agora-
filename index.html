@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Video Calling Application</title>
+  <link rel="stylesheet" href="./style.css" />
+  <link rel="icon" href="./assets/video-call-fevicon.svg">
+</head>
+
+<body>
+  <div class="container">
+    <button id="join_call">JOIN CALL</button>
+    <div id="stream-wrapper">
+      <div id="video-streams"></div>
+      <div class="stream-controls">
+        <button id="microphone">
+          <img id="microphone_img" src="./assets/microphone-on.svg" alt="microphone-on">
+        </button>
+        <button id="camera">
+          <img id="camera_img" src="./assets/camera-on.svg" alt="camera-on">
+        </button>
+        <button id="leaveMeeting">
+          <img id="leave_meeting" src="./assets/session-leave.svg" alt="session-leave">
+        </button>
+      </div>
+    </div>
+  </div>
+</body>
+<script src="./AgoraRTC_N-4.21.0.js"></script>
+<script src="./AgoraToken.js" type="module"></script>
+<script src="./working.js" type="module"></script>
+
+</html>
