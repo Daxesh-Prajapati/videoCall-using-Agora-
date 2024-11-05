@@ -2,7 +2,7 @@
 // adding agora tokens into the file
 const APP_ID = '899c2029005d482885b175e4fb584f7f';
 const TOKEN =
-  '007eJxTYPhetJszbnL9t6tC1ZeEel7Krw4q5Eio6HaO2xz1dtbcD4EKDBaWlslGBkaWBgamKSYWRhYWpkmG5qapJmlJphYmaeZpdzaopzcEMjJY3dvIysgAgSA+C0NuYmYeAwMAblIf7Q==';
+  '007eJxTYAi9tvd6vyHnz6jE3782/pi8Kdtxird2fuflG7n5ib1qx6YrMFhYWiYbGRhZGhiYpphYGFlYmCYZmpummqQlmVqYpJmnWb/STG8IZGTwmlbNyMgAgSA+C0NuYmYeAwMA1o8ggg==';
 const CHANNEL = 'main';
 
 /*
