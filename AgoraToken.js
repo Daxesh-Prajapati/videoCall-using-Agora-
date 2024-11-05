@@ -1,9 +1,8 @@
 // agora SDK already installed
 // adding agora tokens into the file
-const APP_ID = '899c2029005d482885b175e4fb584f7f';
-const TOKEN =
-  '007eJxTYAi9tvd6vyHnz6jE3782/pi8Kdtxird2fuflG7n5ib1qx6YrMFhYWiYbGRhZGhiYpphYGFlYmCYZmpummqQlmVqYpJmnWb/STG8IZGTwmlbNyMgAgSA+C0NuYmYeAwMA1o8ggg==';
-const CHANNEL = 'main';
+const APP_ID = '976efbf87e1d487283393406be19c866';
+const TOKEN = '007eJxTYNjNouJ5Ovrphms9+xhXfnlqEa+aVGgmw7xM7qK0+pHW4iUKDJbmZqlpSWkW5qmGKSYW5kYWxsaWxiYGZkmphpbJFmZm8a810xsCGRm2+TSzMDJAIIjPypCbmJlnxMAAABOFHiA=';
+const CHANNEL = 'main2';
 
 /*
 to gennerate the token : 
